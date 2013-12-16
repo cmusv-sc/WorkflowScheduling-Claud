@@ -1,0 +1,5 @@
+{"LEDAPS":["Modis2Landsat","DownscaleLC"],
+"Modis2Landsat":["AdjustSR"],
+"DownscaleLC":["CalcLaiNdvi"],
+"AdjustSR":["CalcLaiNdvi"],
+"CalcLaiNdvi":[]}

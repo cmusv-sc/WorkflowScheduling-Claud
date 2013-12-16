@@ -1,0 +1,5 @@
+{"LEDAPS":30000,
+"Modis2Landsat":20000,
+"DownscaleLC":40000,
+"AdjustSR":60000,
+"CalcLaiNdvi":90000}
